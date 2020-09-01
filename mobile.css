@@ -13,10 +13,9 @@ h1{
     position:relative;
     float: left;
     margin: 10px;
-    margin-left: 20px;
     padding: 10px;
     overflow: auto;
-    width: 100%;
+    width: 95%;
 }
 
 #chicken_title, #sushi_title, #beef_title{
